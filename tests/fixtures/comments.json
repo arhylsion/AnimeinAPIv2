@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "comment": [
+      {
+        "id": "1001",
+        "user_id": "11",
+        "user_name": "Admin",
+        "user_pokemon": "1",
+        "text": "gak nyangka episode bagus banget",
+        "time": "5 hours ago",
+        "time_updated": null,
+        "like": "12",
+        "dislike": "1",
+        "score": "11",
+        "replay": [],
+        "is_like": "-",
+        "pro": 2,
+        "rank": 0
+      },
+      {
+        "id": "1002",
+        "user_id": "22",
+        "user_name": "watcher",
+        "user_pokemon": "50",
+        "text": "mantap subtitle nya",
+        "time": "1 day ago",
+        "time_updated": null,
+        "like": "3",
+        "dislike": "0",
+        "score": "3",
+        "replay": [],
+        "is_like": "-",
+        "pro": 0,
+        "rank": 3
+      }
+    ],
+    "cover": [
+      {"id": "5", "user_id": "11", "image": "https://api.animein.net/assets/images/submission/cover.jpg", "point": "10"}
+    ],
+    "poster": [],
+    "count": 2,
+    "id_movie": "341"
+  }
+}

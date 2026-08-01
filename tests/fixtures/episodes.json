@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "episode": [
+      {
+        "id": "35969",
+        "index": "25",
+        "title": "Episode 25",
+        "views": "24430",
+        "id_movie": "2073",
+        "key_time": "2 Sep 2019",
+        "image": "/assets/images/movie/episode/cb7de152.jpg",
+        "is_new": "0",
+        "is_book": 0
+      },
+      {
+        "id": "35993",
+        "index": "1",
+        "title": "Episode 1",
+        "views": "31146",
+        "id_movie": "2073",
+        "key_time": "2 Sep 2019",
+        "image": "/assets/images/movie/episode/50af0569.jpg",
+        "is_new": "0",
+        "is_book": 0
+      }
+    ]
+  }
+}

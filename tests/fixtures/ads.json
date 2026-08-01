@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "ad": {
+      "id": 9,
+      "name": "Figur One Piece",
+      "tag": "FIGURE",
+      "url_content_video": "https://storages.animein.net/ADS/figur-op.mp4",
+      "url_content_image": "https://api.animein.net/assets/images/ads/figur-op.jpg",
+      "url_redirect": "https://tokopedia.com/figur-op",
+      "count_view": "120",
+      "count_click": "4"
+    }
+  }
+}

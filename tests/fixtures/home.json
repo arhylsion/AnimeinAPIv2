@@ -1,0 +1,24 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "slider": [
+      {"id": "233", "image": "https://animein.net/assets/images/sliders/s.png", "type": "WEB", "link": "https://trakteer.id/animein.net"}
+    ],
+    "hot": [
+      {"id": "341", "title": "Naruto: Shippuuden", "synopsis": "Sinopsis...", "type": "SERIES", "year": "2025", "status": "FINISHED", "views": "5404906", "favorites": "14127", "genre": "Action,Adventure"}
+    ],
+    "new": [],
+    "today": [],
+    "popular": [],
+    "waiting": [
+      {"id": "6060", "title": "Isekai Munchkin", "synopsis": "Sinopsis...", "type": "SERIES", "year": "UNKNOWN", "status": "WAITING", "views": "0", "favorites": "11202", "genre": "Action,Fantasy"}
+    ],
+    "random": [],
+    "trailer": [
+      {"id": "592", "id_movie": "6060", "url_youtube": "https://youtu.be/abc", "title": "Isekai Munchkin", "type": "SERIES", "status": "WAITING", "genre": "Action"}
+    ],
+    "setup_fyp_flag": "0",
+    "setup_fyp_name": "For You Page"
+  }
+}

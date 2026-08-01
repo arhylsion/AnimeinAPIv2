@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "trailer": [
+      {
+        "id": "329",
+        "name": "PV (Teaser 1) ",
+        "url_youtube": "https://youtu.be/-ZhrFagiq1o",
+        "thumbnail": "https://animein.net/assets/images/trailer/t.jpg",
+        "time": "2 years ago",
+        "is_new": false
+      }
+    ]
+  }
+}

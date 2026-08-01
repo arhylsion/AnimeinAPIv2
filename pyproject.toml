@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "animeinapi"
+version = "2.0.0"
+description = "Remastered anime streaming provider API - multi-resolution streams from animeinweb.com"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "httpx>=0.27",
+    "pydantic-settings>=2.3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "respx>=0.21",
+]
+
+[project.scripts]
+animein = "animeinapi.main:run"
+
+[tool.setuptools.packages.find]
+include = ["animeinapi*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+
+

@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "movie": [
+      {
+        "id": "6068",
+        "title": "Wu Shang Shen Di",
+        "synopsis": "Sinopsis...",
+        "type": "ONA",
+        "year": "2026",
+        "day": "SENIN",
+        "status": "ONGOING",
+        "views": "76523",
+        "favorites": "1030",
+        "aired_start": "2020-05-18",
+        "genre": "Action,Adventure,Martial Arts,Supernatural",
+        "time": "2h 16j 48m ",
+        "key_time": "2026-08-03 12:32:14"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "genre": [
+      {"id": "14", "name": "Action", "image": "https://animein.net/assets/images/genres/a.png", "group": "Genre"},
+      {"id": "43", "name": "Demons", "image": "https://animein.net/assets/images/genres/d.png", "group": "Theme"}
+    ]
+  }
+}

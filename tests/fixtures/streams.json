@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "episode": {
+      "id": "35969",
+      "index": "25",
+      "title": "Episode 25",
+      "views": "24430",
+      "id_movie": "2073",
+      "key_time": "2 Sep 2019",
+      "image": "/assets/images/movie/episode/cb7de152.jpg"
+    },
+    "episode_next": null,
+    "server": [
+      {
+        "id": "599380",
+        "link": "https://storages.animein.net/Haikyuu%21%21%20Second%20Season%2F25-360p-1735188320283.mp4",
+        "quality": "360p",
+        "key_file_size": "25.7894",
+        "name": "RAPSODI",
+        "type": "direct",
+        "domain": "",
+        "username": "HarukaKun",
+        "server_id": "28"
+      },
+      {
+        "id": "614538",
+        "link": "https://storages.animein.net/Haikyuu%21%21%20Second%20Season%2F25-480p-1735376017114.mp4",
+        "quality": "480p",
+        "key_file_size": "55.3097",
+        "name": "RAPSODI",
+        "type": "direct",
+        "domain": "",
+        "username": "elloyy",
+        "server_id": "28"
+      },
+      {
+        "id": "669887",
+        "link": "https://storages.animein.net/Haikyuu%21%21%20Second%20Season%2F25-720p-1737263508678.mp4",
+        "quality": "720p",
+        "key_file_size": null,
+        "name": "RAPSODI",
+        "type": "direct",
+        "domain": "",
+        "username": "rdtyDappa",
+        "server_id": "28"
+      },
+      {
+        "id": "2681",
+        "link": "https://new.uservideo.xyz/file/nanime.org.haikyuu.480p.s2e25.sub.indo.mp4?embed=true&autoplay=true",
+        "quality": "480p",
+        "key_file_size": null,
+        "name": "NANIMEX",
+        "type": "semi",
+        "domain": "",
+        "username": null,
+        "server_id": "1"
+      }
+    ]
+  }
+}

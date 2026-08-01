@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "total_movies": 2,
+    "movies": [
+      {
+        "id": "2073",
+        "title": "Haikyuu!! Second Season",
+        "synopsis": "Setelah partisipasi mereka di Inter-High...",
+        "synonyms": "Haikyu!! 2nd Season",
+        "image_poster": "https://api.animein.net/assets/images/movie/poster/poster.jpg",
+        "image_cover": "https://api.animein.net/assets/images/movie/cover/cover.jpg",
+        "type": "SERIES",
+        "year": "2016",
+        "day": "RANDOM",
+        "status": "FINISHED",
+        "views": "617074",
+        "favorites": "6564",
+        "aired_start": "2015-10-04",
+        "key_status": "active",
+        "genre": "Comedy,Drama,School,Shounen,Sports"
+      },
+      {
+        "id": "5018",
+        "title": "Tsue to Tsurugi no Wistoria",
+        "synopsis": "Will Serfort bermimpi menepati janjinya...",
+        "synonyms": "Wistoria: Wand and Sword",
+        "image_poster": "https://api.animein.net/assets/images/movie/poster/poster2.jpg",
+        "image_cover": "https://api.animein.net/assets/images/movie/cover/cover2.jpg",
+        "type": "SERIES",
+        "year": "2024",
+        "status": "FINISHED",
+        "views": "533574",
+        "genre": "Action,Adventure,Fantasy,Magic,School,Shounen"
+      }
+    ]
+  }
+}

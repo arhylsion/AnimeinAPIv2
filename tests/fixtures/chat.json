@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "error": false,
+  "data": {
+    "chat": [
+      {
+        "id": "3728597",
+        "user_id": "698686",
+        "user_name": "kingoflegend1",
+        "user_pokemon": "136",
+        "image_masukotto": "https://api.animein.net/assets/masukotto/kitsuki.png",
+        "image_url": "",
+        "text": "@EnvyL : gmaw jirr",
+        "text_replay": "kayaknya oke",
+        "time": "18 seconds ago",
+        "time_hour": "05:32",
+        "time_iso": "2026-08-01T05:32:09+07:00",
+        "time_updated": null,
+        "id_chat_replay": "3728596",
+        "type": "U",
+        "pro": 2,
+        "rank": 0,
+        "movie": null
+      },
+      {
+        "id": "3728596",
+        "user_id": "698687",
+        "user_name": "EnvyL",
+        "user_pokemon": "189",
+        "image_masukotto": "https://api.animein.net/assets/masukotto/ditto.png",
+        "image_url": "",
+        "text": "minggu ini rilis gak ya",
+        "text_replay": "",
+        "time": "1 minute ago",
+        "time_hour": "05:31",
+        "time_iso": "2026-08-01T05:31:40+07:00",
+        "time_updated": null,
+        "id_chat_replay": "0",
+        "type": "U",
+        "pro": 0,
+        "rank": 1,
+        "movie": null
+      }
+    ],
+    "chat_update": [],
+    "news": null,
+    "refresh": "3000"
+  }
+}
